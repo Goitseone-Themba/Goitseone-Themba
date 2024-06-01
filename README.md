@@ -1,5 +1,6 @@
 # Hi there👋, I'm Goitseone Themba
 
+[![Goitseone Themba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goitseone-Themba](https://github.com/Goitseone-Themba/github-readme-stats)
 
 <!--
 **Goitseone-Themba/Goitseone-Themba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
