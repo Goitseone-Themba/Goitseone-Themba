@@ -1,6 +1,8 @@
 # Hi there👋, I'm Goitseone Themba
 
-[![Goitseone Themba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goitseone-Themba](https://github.com/Goitseone-Themba/github-readme-stats)
+<img alt="Goitseone Themba's stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="left" width="47%"/>
+
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="left" width="47%"/>
 
 <!--
 **Goitseone-Themba/Goitseone-Themba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
