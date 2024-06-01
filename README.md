@@ -1,6 +1,6 @@
 # Hi there👋, I'm Goitseone Themba
 
-<img alt="Goitseone Themba's stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="left" width="45%"/>
+<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="left" width="45%"/>
 
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="left" width="45%"/>
 
