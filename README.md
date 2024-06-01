@@ -1,4 +1,6 @@
-# Hi there👋, I'm Goitseone Themba
+# Hi there👋
+
+I'm a computer science and software engineering student
 
 <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="left" width="45%"/>
 
