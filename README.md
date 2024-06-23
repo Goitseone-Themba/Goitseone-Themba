@@ -18,6 +18,7 @@
 - Game Development
 - Augmented Reality (AR) Software Development
 - General Software Development
+  
 🔍 I'm constantly learning and improving, especially in computational math.
 
 🌱 Currently, I'm working on refining my skills and taking on new projects to broaden my horizons.
