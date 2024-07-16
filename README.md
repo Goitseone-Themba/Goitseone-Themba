@@ -1,6 +1,5 @@
 <div>
-👋 Hi there! I'm Goitseone Themba
-
+<p>👋 Hi there! I'm Goitseone Themba.</p>
 
 🎓 I'm currently a third-year BSc Computer Science and Software Engineering student at Botswana International University of Science and Technology.
 
@@ -17,6 +16,7 @@
 
 - Game Development
 - Augmented Reality (AR) Software Development
+- Kernel Development
 - General Software Development
   
 🔍 I'm constantly learning and improving, especially in computational math.
