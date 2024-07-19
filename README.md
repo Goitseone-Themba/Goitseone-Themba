@@ -1,7 +1,7 @@
 <div>
 <p>👋 Hi there! I'm Goitseone Themba.</p>
 
-🎓 I'm currently a third-year BSc Computer Science and Software Engineering student at Botswana International University of Science and Technology.
+🎓 I'm currently a final-year BSc Computer Science and Software Engineering student at Botswana International University of Science and Technology.
 
 💻 I've dabbled in various areas of software development including:
 
