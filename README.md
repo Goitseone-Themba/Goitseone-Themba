@@ -1,4 +1,4 @@
-# 👋 Hello, tech world! I'm Goitseone Themba, a digital polymath in the making.
+# 👋 Hello, tech world! I'm Goitseone Themba.
 
 🚀 Final-year BSc Computer Science & Software Engineering student at Botswana International University of Science and Technology, on a mission to push the boundaries of what's possible in tech.
 
