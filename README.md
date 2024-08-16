@@ -27,7 +27,7 @@
 - LinkedIn: [Goitseone Themba](https://www.linkedin.com/in/goitseone-themba-a58828291/)
 </div>
 
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="left" width="45%"/>
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="left" width="50%"/>
 
 <!--
 > 💡 "In the world of ones and zeros, I aim to be the variable that makes all the difference."
