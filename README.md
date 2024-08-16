@@ -1,36 +1,36 @@
+<div width="45%">
+  
 # 👋 Hello, tech world! I'm Goitseone Themba.
 
-🚀 Final-year BSc Computer Science & Software Engineering student at Botswana International University of Science and Technology, on a mission to push the boundaries of what's possible in tech.
+🚀 Passionate final-year BSc Computer Science & Software Engineering student with a diverse skill set in web, mobile, and backend development.
 
-## 💻 My coding journey spans multiple realms:
-- **Web Wizardry:** Crafting responsive experiences with React & Firebase
-- **Mobile Mastery:** Building apps with Android Studio (Java) & Flutter
-- **Backend Sorcery:** Conjuring RESTful APIs & Spring Boot solutions
-- **Core Competencies:** Fluent in the languages of machines - C & C++
-
-🎨 **UI/UX Enthusiast:** Transforming ideas into intuitive designs with Figma
+## 💻 My technical arsenal includes:
+- **Web:** React, Firebase, SQL
+- **Mobile:** Android Studio (Java), Flutter
+- **Backend:** REST APIs, Spring Boot, ExpressJs
+- **Languages:** C, C++, Dart, Java, Javascript, Rust
+- **UI/UX design:** Figma
 
 🔬 **Current Focus:** Diving deep into the ocean of computational mathematics, where algorithms meet artistry
 
-## 🌟 Future Ambitions:
-- Crafting immersive worlds through Game Development
-- Blending realities with Augmented Reality (AR) innovations
-- Diving into the core of computing with Kernel Development
-- Continuously evolving as a versatile Software Developer
+## 🚀 My future goals include:
+- Game Development
+- Augmented Reality (AR) Software Development
+- Kernel Development
+- General Software Development
 
-🌱 **Perpetual Learner:** Every day is a new opportunity to expand my tech horizons
 
 🤝 **Let's Connect:** Whether you're looking to collaborate on groundbreaking projects, discuss the latest in tech, or just geek out about code, I'm all ears!
 
 📫 **Reach out:** 
 - Email: goitseonethemba@gmail.com 
 - LinkedIn: [Goitseone Themba](https://www.linkedin.com/in/goitseone-themba-a58828291/)
-
-> 💡 "In the world of ones and zeros, I aim to be the variable that makes all the difference."
+</div>
 
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="left" width="45%"/>
 
 <!--
+> 💡 "In the world of ones and zeros, I aim to be the variable that makes all the difference."
 <div>
 <p>👋 Hi there! I'm Goitseone Themba.</p>
 
