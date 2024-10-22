@@ -24,7 +24,7 @@
 
 📫 **Reach out:** 
 - Email: goitseonethemba@gmail.com 
-- LinkedIn: [Goitseone Themba](https://www.linkedin.com/in/goitseone-themba-a58828291/)
+- LinkedIn: [Goitseone Themba](https://www.linkedin.com/in/goitseone-themba)
 </div>
 
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact" align="left" width="50%"/>
