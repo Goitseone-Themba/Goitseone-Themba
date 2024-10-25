@@ -28,6 +28,7 @@
 </div>
 
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact" align="left" width="50%"/>
+[![Goitseone Themba's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Goitseone_Themba)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 > 💡 "In the world of ones and zeros, I aim to be the variable that makes all the difference."
