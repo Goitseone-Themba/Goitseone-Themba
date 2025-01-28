@@ -8,10 +8,10 @@
 - **Web:** React, Firebase, SQL
 - **Mobile:** Android Studio (Java), Flutter
 - **Backend:** REST APIs, Spring Boot, ExpressJs
-- **Languages:** C, C++, Dart, Java, Javascript, Rust
+- **Languages:** C, C++, Dart, Java, Javascript, Rust, Python
 - **UI/UX design:** Figma
 
-🔬 **Current Focus:** Diving deep into the ocean of computational mathematics, where algorithms meet artistry
+🔬 **Current Focus:** Building Tools
 
 ## 🚀 My future goals include:
 - Game Development
