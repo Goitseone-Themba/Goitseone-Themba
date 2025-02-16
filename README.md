@@ -28,6 +28,7 @@
 </div>
 
 <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10" align="left" width="50%"/>
+<img alt="Goitseone Themba's stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="left" width="45%"/>
 
 <!--
 > 💡 "In the world of ones and zeros, I aim to be the variable that makes all the difference."
