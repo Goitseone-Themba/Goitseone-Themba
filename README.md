@@ -14,11 +14,10 @@
 🔬 **Current Focus:** Building Tools
 
 ## 🚀 My future goals include:
+- Blockchain Development
 - Game Development
 - Augmented Reality (AR) Software Development
 - Kernel Development
-- General Software Development
-
 
 🤝 **Let's Connect:** Whether you're looking to collaborate on groundbreaking projects, discuss the latest in tech, or just geek out about code, I'm all ears!
 
