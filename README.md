@@ -26,8 +26,8 @@
 - LinkedIn: [Goitseone Themba](https://www.linkedin.com/in/goitseone-themba)
 </div>
 <div style="display: flex;">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10" align="left" width="45%"/>
-  <img alt="Goitseone Themba's stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="right" width="50%"/>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10" align="left" />
+  <img alt="Goitseone Themba's stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="right" />
 </div>
 
 <!--
