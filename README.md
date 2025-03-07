@@ -25,10 +25,10 @@
 - Email: goitseonethemba@gmail.com 
 - LinkedIn: [Goitseone Themba](https://www.linkedin.com/in/goitseone-themba)
 </div>
-<div style="display: flex;">
+
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10" align="left" />
   <img alt="Goitseone Themba's stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="right" />
-</div>
+
 
 <!--
 > 💡 "In the world of ones and zeros, I aim to be the variable that makes all the difference."
