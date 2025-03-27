@@ -11,7 +11,7 @@
 - **Languages:** C, C++, Dart, Java, Javascript, Rust, Python
 - **UI/UX design:** Figma
 
-🔬 **Current Focus:** Building Tools
+🔬 **Current Focus:** Blockchain
 
 ## 🚀 My future goals include:
 - Blockchain Development
