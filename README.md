@@ -1,3 +1,60 @@
+<div align="center">
+  
+# 👋 Hey there, I'm Goitseone Themba! 🚀
+
+🎓 **Final-year BSc Computer Science & Software Engineering student** with a passion for crafting innovative solutions in **web**, **mobile**, and **backend development**. I love diving into new tech and building projects that make an impact.
+
+</div>
+
+---
+
+## 🛠️ My Tech Stack
+I’m a versatile developer with a wide range of skills across multiple domains:
+
+- **Web Development:** React, Firebase, SQL  
+- **Mobile Development:** Android Studio (Java), Flutter  
+- **Backend:** REST APIs, Spring Boot, Express.js  
+- **Languages:** C, C++, Dart, Java, JavaScript, Typescript, Rust, Python  
+- **UI/UX Design:** Figma  
+
+🔬 **Current Focus: Deep Dive into Blockchain**, Exploring decentralized tech and smart contracts in the polkadot ecosystem. 
+
+---
+
+## 🌟 Future goals:
+- 🎮 **Game Development Dreams:** Planning to build my first game soon!  
+- 🕶️ **Augmented Reality (AR):** Experimenting with AR software development.  
+- 🛠️ **Kernel Development:** Aiming to contribute to low-level systems in the future.  
+
+---
+
+## 📊 My GitHub Stats
+<div align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10&theme=radical" />
+  <img alt="Goitseone Themba's stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba&show_icons=true&theme=radical" />
+</div>
+
+---
+
+## 🤝 Let’s Collaborate!
+I’m always up for collaborating on innovative projects, discussing the latest in tech, or geeking out over code. Whether it’s blockchain, game dev, or something totally new—let’s build something amazing together!
+
+📫 **Reach Out:**  
+- **Email:** [goitseonethemba@gmail.com](mailto:goitseonethemba@gmail.com)  
+- **LinkedIn:** [Goitseone Themba](https://www.linkedin.com/in/goitseone-themba)  
+
+<div align="center">
+  <a href="https://github.com/Goitseone-Themba">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=flat-square&logo=github" alt="GitHub Follow" />
+  </a>
+  <a href="https://www.linkedin.com/in/goitseone-themba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn Connect" />
+  </a>
+</div>
+
+---
+
+<!--
 <div width="45%">
   
 # 👋 Hello, tech world! I'm Goitseone Themba.
@@ -28,6 +85,8 @@
 
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10" align="left" />
   <img alt="Goitseone Themba's stats" src="https://github-readme-stats.vercel.app/api?username=Goitseone-Themba" align="right" />
+
+-->
 
 
 <!--
