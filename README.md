@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm Goitseone Themba! 🚀
 
-🎓 **Final-year BSc Computer Science & Software Engineering student** with a passion for crafting innovative solutions in **web**, **mobile**, and **backend development**. I love diving into new tech and building projects that make an impact.
+🎓 **Final-year BSc Computer Science & Software Engineering student** with a passion for crafting innovative solutions in **web**, **mobile**, and **Blockchain development**. I love diving into new tech and building projects that make an impact.
 
 </div>
 
@@ -11,11 +11,13 @@
 ## 🛠️ My Tech Stack
 I’m a versatile developer with a wide range of skills across multiple domains:
 
-- **Web Development:** React, Firebase, SQL  
+- **Web Development:** React, Mongodb, Firebase, SQL  
 - **Mobile Development:** Android Studio (Java), Flutter  
-- **Backend:** REST APIs, Spring Boot, Express.js  
-- **Languages:** C, C++, Dart, Java, JavaScript, Typescript, Rust, Python  
-- **UI/UX Design:** Figma  
+- **Backend:** Rocket.rs, Express.js, Fast api, Spring Boot
+- **Languages:** C, C++, Dart, Java, JavaScript, Typescript, Rust, Python, lua,bash
+- **Blockchain:** ink, Substrate, Polkadot
+- **UI/UX Design:** Figma
+- **Other tools:** Git, Neovim, Tmux, Docker
 
 🔬 **Current Focus: Deep Dive into Blockchain**, Exploring decentralized tech and smart contracts in the polkadot ecosystem. 
 
