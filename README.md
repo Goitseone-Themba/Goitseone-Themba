@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm Goitseone Themba! 🚀
 
-🎓 **Final-year BSc Computer Science & Software Engineering student** with a passion for crafting innovative solutions in **web**, **mobile**, and **Blockchain development**. I love diving into new tech and building projects that make an impact.
+🎓 **BSc Computer Science & Software Engineering student** with a passion for crafting innovative solutions in **web**, **mobile**, and **Blockchain development**. I love diving into new tech and building projects that make an impact.
 
 </div>
 
@@ -23,13 +23,6 @@ I’m a versatile developer with a wide range of skills across multiple domains:
 
 ---
 
-## 🌟 Future goals:
-- 🎮 **Game Development Dreams:** Planning to build my first game soon!  
-- 🕶️ **Augmented Reality (AR):** Experimenting with AR software development.  
-- 🛠️ **Kernel Development:** Aiming to contribute to low-level systems in the future.  
-
----
-
 ## 📊 My GitHub Stats
 <div align="center">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10&theme=radical" />
@@ -39,7 +32,7 @@ I’m a versatile developer with a wide range of skills across multiple domains:
 ---
 
 ## 🤝 Let’s Collaborate!
-I’m always up for collaborating on innovative projects, discussing the latest in tech, or geeking out over code. Whether it’s blockchain, game dev, or something totally new—let’s build something amazing together!
+I’m always up for collaborating on innovative projects, discussing the latest in tech, or geeking out over code. Whether it’s blockchain, game dev, or something totally new... let’s build something amazing together!
 
 📫 **Reach Out:**  
 - **Email:** [goitseonethemba@gmail.com](mailto:goitseonethemba@gmail.com)  
