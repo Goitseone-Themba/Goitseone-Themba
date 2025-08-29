@@ -13,14 +13,16 @@ Always learning. Always shipping.
 ---
 
 ## 🛠️ Tech I Use
+ <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10" align="left" />
 
-- **Frontend:** React, TypeScript, MUI
+  - **Frontend:** React, TypeScript, MUI
 - **Backend:** Node.js, Express, Rocket.rs, FastAPI, Spring Boot
 - **Databases:** MongoDB, SQL, Firebase
 - **Blockchain:** Rust, ink!, Substrate, Polkadot
 - **Mobile:** Android (Java)
 - **Design:** Figma
-- **Other:** Git, Docker, Linux, Neovim, Tmux
+- **Other:** Git, Docker, Linux, Neovim, Tmux 
+
 
 ---
 
