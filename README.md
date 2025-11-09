@@ -2,11 +2,9 @@
 
 # 👋 Hey, I’m Goitseone Themba
 
-🎓 **BSc Computer Science & Software Engineering student (BIUST, graduating 2026)**  
+**BSc Computer Science & Software Engineering student**  
 💻 **Fullstack developer building React frontends and ink! smart contracts on Polkadot**
 
-I enjoy designing interfaces that work well and writing backend logic that holds up.  
-Always learning. Always shipping.
 
 </div>
 
@@ -15,23 +13,23 @@ Always learning. Always shipping.
 ## 🛠️ Tech I Use
  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitseone-Themba&layout=compact&langs_count=10" align="left" />
 
-  - **Frontend:** React, TypeScript, MUI
-- **Backend:** Node.js, Express, Rocket.rs, FastAPI, Spring Boot
-- **Databases:** MongoDB, SQL, Firebase
+- **Frontend:** React, Solid, MUI, Shadcn
+- **Backend:** Node.js, Express, Axum.rs, Actix.rs, FastAPI, Spring Boot
+- **Databases:** MongoDB, MySQL, Firebase
 - **Blockchain:** Rust, ink!, Substrate, Polkadot
 - **Mobile:** Android (Java)
 - **Design:** Figma
-- **Other:** Git, Docker, Linux, Neovim, Tmux 
+- **Other tools:** Git, Docker, Linux, Neovim, Tmux
 
 
 ---
 
-## 🌍 What I’m Building
+## 🌍 Current Focus
 
 Right now I’m focused on:
-- Writing clean TypeScript frontends
+- Writing better Typescript and Rust
 - Building smart contracts with ink! for decentralized apps
-- Exploring how blockchain can solve real-world problems
+- Blockchain architecture
 
 ---
 
